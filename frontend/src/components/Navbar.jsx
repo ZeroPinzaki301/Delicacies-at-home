@@ -63,21 +63,21 @@ const Navbar = () => {
       <div className="hidden sm:flex text-amber-950 space-x-4 md:space-x-8 lg:space-x-12 tracking-[.45em]">
         <Link 
           to="/" 
-          className="font-bold text-sm md:text-base lg:text-lg hover:text-amber-700"
+          className="font-thin text-sm md:text-base lg:text-lg hover:text-amber-700"
           onClick={handleHomeClick}
         >
           Home
         </Link>
-        <Link to="/favorites" className="font-bold text-sm md:text-base lg:text-lg hover:text-amber-700">
+        <Link to="/favorites" className="font-thin text-sm md:text-base lg:text-lg hover:text-amber-700">
           Favorites
         </Link>
-        <Link to="/dishes" className="font-bold text-sm md:text-base lg:text-lg hover:text-amber-700">
+        <Link to="/dishes" className="font-thin text-sm md:text-base lg:text-lg hover:text-amber-700">
           Dishes
         </Link>
-        <Link to="/lore" className="font-bold text-sm md:text-base lg:text-lg hover:text-amber-700">
+        <Link to="/lore" className="font-thin text-sm md:text-base lg:text-lg hover:text-amber-700">
           Lore
         </Link>
-        <Link to="/contact" className="font-bold text-sm md:text-base lg:text-lg hover:text-amber-700">
+        <Link to="/contact" className="font-thin text-sm md:text-base lg:text-lg hover:text-amber-700">
           Contact Us
         </Link>
       </div>
@@ -93,35 +93,35 @@ const Navbar = () => {
           <div className="flex flex-col space-y-4">
             <Link
               to="/"
-              className="font-bold text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
+              className="font-thin text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
               onClick={handleHomeClick}
             >
               Home
             </Link>
             <Link
               to="/favorites"
-              className="font-bold text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
+              className="font-thin text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
               onClick={() => setMobileMenuOpen(false)}
             >
               Favorites
             </Link>
             <Link
               to="/dishes"
-              className="font-bold text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
+              className="font-thin text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
               onClick={() => setMobileMenuOpen(false)}
             >
               Dishes
             </Link>
             <Link
               to="/lore"
-              className="font-bold text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
+              className="font-thin text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
               onClick={() => setMobileMenuOpen(false)}
             >
               Lore
             </Link>
             <Link
               to="/contact"
-              className="font-bold text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
+              className="font-thin text-amber-950 hover:text-amber-700 py-2 border-b border-lime-700"
               onClick={() => setMobileMenuOpen(false)}
             >
               Contact Us

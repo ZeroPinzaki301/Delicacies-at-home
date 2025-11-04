@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Cinzel';
-  src: url('src/fonts/Cinzel/Cinzel-VariableFont_wght.ttf');
+  src: url('src/fonts/Cinzel/static/Cinzel-SemiBold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

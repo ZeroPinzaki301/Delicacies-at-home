@@ -22,7 +22,7 @@ const Homepage = () => {
   ]
 
   return (
-    <div className='min-h-screen px-10 py-10 bg-yellow-100'>
+    <div className='min-h-screen px-5 md:px-10 py-10 bg-yellow-100'>
 
       <div
         className="mt-10 flex flex-col md:flex-row min-h-screen md:min-h-[40em]"
@@ -44,13 +44,13 @@ const Homepage = () => {
 
         {/* Text Section */}
         <div className="flex flex-col justify-center items-center w-full md:w-[57%] bg-stone-900/25 h-[50vh] md:h-auto text-center px-4">
-          <div className="text-yellow-200 text-3xl md:text-5xl font-bold mb-4">
+          <div className="text-yellow-200 text-3xl md:text-5xl font-light mb-4">
             Take your time with every bite
           </div>
           <div className="text-yellow-200 text-5xl md:text-7xl font-[1000] mb-4">
             Feel right at HOME
           </div>
-          <div className="text-yellow-200 text-xl md:text-3xl font-bold tracking-widest">
+          <div className="text-yellow-200 text-xl md:text-3xl font-light tracking-widest">
             Sit back relax, and wait for more
           </div>
         </div>
@@ -59,7 +59,7 @@ const Homepage = () => {
       <hr className='mt-4 bg-orange-500 h-[.2em]'/>
 
       <div className='mt-5 h-[24.5em] py-3'>
-        <h2 className='text-center tracking-widest font-bold text-4xl '>Wide variety of dishes</h2>
+        <h2 className='text-center tracking-widest font-medium text-4xl '>Wide variety of dishes</h2>
         <div className='flex pt-6 gap-5 mt-2 justify-center'>
 
           <button className='bg-cover bg-center rounded-tl-3xl 
@@ -70,7 +70,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Pork
               </div>
@@ -85,7 +85,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Chicken
               </div>
@@ -100,7 +100,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Fish
               </div>
@@ -115,7 +115,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Vegetable
               </div>
@@ -130,7 +130,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Noodle
               </div>
@@ -145,7 +145,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Beef
               </div>
@@ -160,7 +160,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Seafood
               </div>
@@ -175,7 +175,7 @@ const Homepage = () => {
             <div className="group h-full w-full">
               <div className="bg-transparent h-full w-full flex items-center justify-center 
               group-hover:bg-stone-900/75 duration-300 ease-out
-              text-3xl font-bold tracking-widest text-yellow-200
+              text-3xl font-thin tracking-widest text-yellow-200
               invisible group-hover:visible">
                 Dessert
               </div>
@@ -191,12 +191,12 @@ const Homepage = () => {
         <div className='min-h-[25em] flex bg-linear-to-r from-stone-900/75 to-stone-950/75'>
           <div className='w-[40%] bg-cover bg-center' style={{ backgroundImage: `url(${homeImg1})` }}></div>
           <div className='w-[60%] flex items-center px-6'>
-            <p className='text-yellow-200 text-right text-3xl font-bold tracking-widest'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, ea unde pariatur, laudantium eum rerum dolorum illum quos excepturi architecto odio nobis in? Nulla, esse voluptates. Numquam quam animi maiores.</p>
+            <p className='text-yellow-200 text-right text-3xl font-thin tracking-widest'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, ea unde pariatur, laudantium eum rerum dolorum illum quos excepturi architecto odio nobis in? Nulla, esse voluptates. Numquam quam animi maiores.</p>
           </div>
         </div>
         <div className='min-h-[25em] flex bg-linear-to-r from-orange-300/75 to-yellow-200/75'>
           <div className='w-[60%] flex items-center px-6 '>
-            <p className='text-stone-900 text-left text-3xl font-bold tracking-widest'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, ea unde pariatur, laudantium eum rerum dolorum illum quos excepturi architecto odio nobis in? Nulla, esse voluptates. Numquam quam animi maiores.</p>
+            <p className='text-stone-900 text-left text-3xl font-thin tracking-widest'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, ea unde pariatur, laudantium eum rerum dolorum illum quos excepturi architecto odio nobis in? Nulla, esse voluptates. Numquam quam animi maiores.</p>
           </div>
           <div className='w-[40%] bg-[length:100%_100%] bg-center' style={{ backgroundImage: `url(${homeImg2})` }}></div>
         </div>
