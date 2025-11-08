@@ -28,8 +28,9 @@ const Homepage = () => {
         className="
           mt-7
           md:mt-10h bg-cover bg-center 
-          flex flex-col md:flex-row min-h-[30em] 
-          md:min-h-[39.75em]"
+          flex flex-col md:flex-row min-h-[32em] 
+          md:min-h-[39.75em]
+          pb-3"
         style={{ backgroundImage: `url(${heroBg})`}}
       >
         {/* Carousel Section */}
