@@ -49,6 +49,7 @@ const Homepage = () => {
         {/* Text Section */}
         <div className="
           flex flex-col justify-center 
+          md:mt-0 mt-2
           items-center w-full md:w-[57%] 
           bg-stone-900/25 h-[27vh] md:h-[50vh] 
           md:h-auto text-center px-4">
@@ -246,32 +247,31 @@ const Homepage = () => {
 
       <hr className='mt-4 bg-orange-500 h-[.2em]'/>
 
-      <div className='mt-5 flex flex-col'>
-        <div className='
-          md:h-[25em] grid grid-rows-[5fr, 5fr] min-h-[22.75em] 
-          md:flex md:flex-row bg-linear-to-r 
-          from-stone-900/75 to-stone-950/75'>
-          <div className='w-full md:h-full md:w-[40%] bg-cover bg-center' style={{ backgroundImage: `url(${homeImg1})` }}></div>
-          <div className='w-full h-[.5em] md:h-full md:w-[60%] flex md:items-center'>
-            <p className='border border-stone-900/0 mt-2 md:mt-0 text-yellow-200 md:px-6 text-center md:text-right text-l md:text-3xl font-thin tracking-widest'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, ea unde pariatur, laudantium eum rerum dolorum illum quos excepturi architecto odio nobis in? Nulla, esse voluptates. Numquam quam animi maiores.</p>
+      <div className='grid grid-rows-2 mt-5 gap-1 md:gap-0'>
+
+        <div className='grid grid-rows-2 bg-linear-to-r from-stone-900/75 to-stone-950 md:grid-rows-1 md:grid-cols-[40%_60%] md:min-h-[27.5em]'>
+          <div className='bg-cover bg-center' style={{backgroundImage: `url(${homeImg1})`}}></div>
+          <div className='flex items-center text-center md:text-3xl py-3 md:px-6'>
+            <p className='text-yellow-200'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque culpa porro ipsam illum expedita optio excepturi nesciunt earum ut veniam, sint doloremque, distinctio exercitationem eaque sapiente non mollitia minus vero!</p>
           </div>
         </div>
-        <div className='
-          md:h-[25em] grid grid-rows-[5fr, 5fr] min-h-[22.75em] 
-          md:flex md:flex-row bg-linear-to-r 
-          from-orange-400/75 to-yellow-200/75
-          md:mt-0 mt-2'>
-          <div className='w-full h-[.5em] md:h-full md:w-[60%] flex md:items-center'>
-            <p className='border md:row-start-1 mt-2 md:mt-0 row-start-2 border-stone-900/0 text-stone-900 text-center md:text-left md:text-3xl text-l font-thin tracking-widest md:px-6 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, ea unde pariatur, laudantium eum rerum dolorum illum quos excepturi architecto odio nobis in? Nulla, esse voluptates. Numquam quam animi maiores.</p>
-          </div>
+
+        <div className='grid bg-linear-to-r from-orange-500/75 to-yellow-200 grid-rows-2 md:grid-rows-1 md:grid-cols-[60%_40%] md:min-h-[27.5em]'>
           <div className='
-            w-full md:bg-white/75 bg-stone-200/75
-            md:row-start-2 row-start-1 md:w-[40%] 
-            md:bg-[length:100%_100%] bg-no-repeat 
-            bg-[length:70%_100%] bg-center' 
-            style={{ backgroundImage: `url(${homeImg2})` }}>
+            md:bg-cover bg-[length:85%_100%] bg-no-repeat bg-center
+            md:col-start-2 md:row-start-1
+            ' style={{backgroundImage: `url(${homeImg2})`}}></div>
+          <div className='
+            flex
+            md:col-start-1 md:row-start-1
+            text-center md:text-3xl
+            items-center
+            py-3 md:px-6 
+          '>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus suscipit modi recusandae officia reprehenderit corrupti impedit aperiam, eum alias a omnis quisquam ipsam nam sint. Ipsam nihil quaerat omnis eos?</p>
           </div>
         </div>
+
       </div>
 
     </div>
