@@ -33,7 +33,7 @@ const Carousel = ({
         {slides}
       </div>
 
-      <div className='absolute inset-0 flex items-center justify-between p-4'>
+      <div className='absolute inset-0 flex items-center justify-between p-1'>
         <button onClick={prev} className='cursor-pointer text-yellow-200 text-5xl hover:scale-110 hover:text-yellow-400 transition-transform'>
           <FaArrowCircleLeft />
         </button>
@@ -49,7 +49,7 @@ const Carousel = ({
             <div 
               key={i}
               className={`
-                transition-all w-3 h-3 bg-white rounded-full cursor-pointer
+                transition-all w-2 h-2 bg-yellow-200 rounded-full cursor-pointer
                 ${current === i ? "p-2" : "bg-opacity-50"}
               `}
               onClick={() => setCurrent(i)}
