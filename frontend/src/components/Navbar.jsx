@@ -50,7 +50,7 @@ const Navbar = () => {
 
       {/* Burger Menu Button - Mobile Only */}
       <button
-        className="sm:hidden text-amber-950 text-2xl"
+        className="sm:hidden text-amber-950 text-2xl cursor-pointer"
         onClick={(e) => {
           e.stopPropagation();
           setMobileMenuOpen(!mobileMenuOpen);

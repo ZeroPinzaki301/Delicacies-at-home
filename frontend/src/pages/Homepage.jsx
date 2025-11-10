@@ -22,13 +22,13 @@ const Homepage = () => {
   ]
 
   return (
-    <div className='min-h-screen px-1 md:px-10 py-10 bg-yellow-100'>
+    <div className='min-h-screen md:px-10 py-10 bg-yellow-100'>
 
       <div
         className="
           mt-7
           md:mt-10h bg-cover bg-center 
-          flex flex-col md:flex-row min-h-[32em] 
+          flex flex-col md:flex-row min-h-[37.5em] 
           md:min-h-[39.75em]
           pb-3"
         style={{ backgroundImage: `url(${heroBg})`}}
@@ -53,20 +53,21 @@ const Homepage = () => {
           md:mt-0 mt-2
           items-center w-full md:w-[57%] 
           bg-stone-900/25 h-[27vh] md:h-[50vh] 
-          md:h-auto text-center px-4">
-          <div className="mb-1 text-yellow-200 text-2xl md:text-5xl font-light md:mb-4 tracking-wider">
-            Take your time with every bite
+          md:h-auto text-center md:text-right px-4">
+          <div className="mb-1 text-yellow-200 text-2xl md:text-6xl font-light md:mb-4 tracking-wider">
+            Take your time with <span className='md:mr-10'>every bite</span>
           </div>
-          <div className="mb-2 text-yellow-200 text-4xl md:text-7xl font-[1000] md:mb-4 tracking-widest">
+          <div className="mb-2 text-yellow-200 text-4xl md:text-7xl font-[1000] md:mb-4 md:tracking-[.175em] tracking-widest">
             Feel right at HOME
           </div>
-          <div className="text-yellow-200 text-xl md:text-3xl font-light tracking-widest">
-            Sit back relax, and wait for more
+          <div className="text-yellow-200 text-l md:text-l font-light tracking-widest">
+            In a world that moves too fast, the taste of home is the one thing that never changes.
           </div>
         </div>
       </div>
 
-      <hr className='md:mt-4 bg-orange-500 h-[.2em]'/>
+      <hr className='mt-1 md:mt-4 bg-black h-[.2em]'/>
+      <hr className='mt-1 md:mt-2 bg-black h-[.1em]'/>
 
       <div className='mt-5 py-3'>
         <h2 className='text-center tracking-widest font-medium text-4xl '>Wide variety of dishes</h2>
@@ -246,7 +247,8 @@ const Homepage = () => {
         </div>
       </div>
 
-      <hr className='mt-4 bg-orange-500 h-[.2em]'/>
+      <hr className='mt-4 bg-black h-[.1em]'/>
+      <hr className='mt-1 md:mt-2 bg-black h-[.2em]'/>
 
       <div className='grid grid-rows-2 mt-5 gap-1 md:gap-0'>
 

@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer'
 
 import Homepage from './pages/Homepage';
+import Favorites from "./pages/Favorites";
 
 import { useState } from 'react'
 import './App.css'
@@ -16,7 +17,7 @@ function AppContent() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Homepage />} />
-        <Route path="/favorites" element={<div className="min-h-screen pt-20 px-4">Favorites Page - Coming Soon</div>} />
+        <Route path="/favorites" element={<Favorites />}/>
         <Route path="/dishes" element={<div className="min-h-screen pt-20 px-4">Dishes Page - Coming Soon</div>} />
         <Route path="/lore" element={<div className="min-h-screen pt-20 px-4">Lore Page - Coming Soon</div>} />
         <Route path="/contact" element={<div className="min-h-screen pt-20 px-4">Contact Us Page - Coming Soon</div>} />

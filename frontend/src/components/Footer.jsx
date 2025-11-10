@@ -10,16 +10,11 @@ const Footer = () => {
     <footer className="bg-orange-300 text-amber-950 border-t-2 border-lime-200/25">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
         {/* Main Footer Content */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           
           {/* Brand Section */}
           <div className="lg:col-span-1">
             <Link to="/" className="flex items-center mb-4">
-              <img
-                src={HoDelLogo}
-                alt="HoDel"
-                className="w-12 h-12 mr-3"
-              />
               <img
                 src={HoDelTitle}
                 alt="HoDel"
@@ -27,7 +22,7 @@ const Footer = () => {
               />
             </Link>
             <p className="text-amber-800 mb-4 text-sm">
-              Discover the finest culinary experiences and traditional dishes from around the world.
+              When the day’s done, home still knows how to cook.
             </p>
             <div className="flex space-x-4">
               {/* Social Media Icons - You can replace these with actual social media links */}
@@ -109,33 +104,12 @@ const Footer = () => {
               </div>
             </div>
           </div>
-
-          {/* Newsletter Signup */}
-          <div className="lg:col-span-1">
-            <h3 className="font-bold text-lg mb-4 tracking-wider">NEWSLETTER</h3>
-            <p className="text-amber-800 mb-3 text-sm">
-              Subscribe to get updates on new dishes and culinary stories.
-            </p>
-            <form className="space-y-2">
-              <input
-                type="email"
-                placeholder="Your email address"
-                className="w-full px-3 py-2 border border-amber-800 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-700 text-sm"
-              />
-              <button
-                type="submit"
-                className="w-full bg-amber-800 text-orange-100 py-2 rounded-lg hover:bg-amber-700 transition-colors font-bold text-sm"
-              >
-                Subscribe
-              </button>
-            </form>
-          </div>
         </div>
 
         {/* Bottom Bar */}
         <div className="border-t border-lime-200/25 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-amber-800 text-sm">
-            © {currentYear} HoDel. All rights reserved.
+            © {currentYear} Home Delicaies. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-amber-800 hover:text-amber-700 text-sm transition-colors">
