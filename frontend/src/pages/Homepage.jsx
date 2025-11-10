@@ -28,7 +28,7 @@ const Homepage = () => {
         className="
           mt-7
           md:mt-10h bg-cover bg-center 
-          flex flex-col md:flex-row min-h-[37.5em] 
+          flex flex-col md:flex-row min-h-[40.5em] 
           md:min-h-[39.75em]
           pb-3"
         style={{ backgroundImage: `url(${heroBg})`}}
@@ -50,7 +50,7 @@ const Homepage = () => {
         {/* Text Section */}
         <div className="
           flex flex-col justify-center 
-          md:mt-0 mt-4
+          md:mt-0 mt-1
           items-center w-full md:w-[57%] 
           bg-stone-900/25 h-[27vh] md:h-[50vh] 
           md:h-auto text-center px-4 md:p-14">
