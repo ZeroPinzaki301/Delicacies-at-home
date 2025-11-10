@@ -35,7 +35,7 @@ const Homepage = () => {
       >
         {/* Carousel Section */}
         <div className="flex justify-center items-center w-full md:w-[43%] h-[40vh] md:h-auto">
-          <Carousel autoSlide={true} className="h-[18em] w-[85%] md:h-[30em] md:w-[35em]">
+          <Carousel autoSlide={true} className="h-[18em] w-[85%] md:h-[30em] md:w-[35em] mb-2">
             {slides.map((s, index) => (
               <img
                 key={index}
