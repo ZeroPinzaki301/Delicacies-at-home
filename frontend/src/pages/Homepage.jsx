@@ -57,10 +57,10 @@ const Homepage = () => {
           <div className="mb-1 text-yellow-200 text-2xl md:text-6xl font-light md:mb-4 tracking-wide">
             Take your time with <span className='md:ml-60'>every bite</span>
           </div>
-          <div className="mb-2 text-yellow-200 text-4xl md:text-7xl font-[1000] md:mb-4 md:tracking-[.175em] tracking-widest">
+          <div className="mb-2 text-yellow-200 text-3xl md:text-7xl font-[1000] md:mb-4 md:tracking-[.175em] tracking-widest">
             Feel right at <span className='md:mr-60'>HOME</span>
           </div>
-          <div className="text-yellow-200 text-xl text-center md:text-l font-light tracking-widest">
+          <div className="text-yellow-200 text-l text-center md:text-xl font-light tracking-widest">
             In a world that moves too fast, the taste of home is the one thing that never changes
           </div>
         </div>
