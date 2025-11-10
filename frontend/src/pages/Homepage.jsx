@@ -28,14 +28,14 @@ const Homepage = () => {
         className="
           mt-7
           md:mt-10h bg-cover bg-center 
-          flex flex-col md:flex-row min-h-[40.5em] 
+          flex flex-col md:flex-row min-h-[35em] 
           md:min-h-[39.75em]
-          pb-3"
+          pb-1"
         style={{ backgroundImage: `url(${heroBg})`}}
       >
         {/* Carousel Section */}
         <div className="flex justify-center items-center w-full md:w-[43%] h-[40vh] md:h-auto">
-          <Carousel autoSlide={true} className="h-[18em] w-[85%] md:h-[30em] md:w-[35em] mb-2">
+          <Carousel autoSlide={true} className="h-[18em] w-[85%] md:h-[30em] md:w-[35em]">
             {slides.map((s, index) => (
               <img
                 key={index}
