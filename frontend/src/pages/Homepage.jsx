@@ -29,8 +29,7 @@ const Homepage = () => {
           mt-7
           md:mt-10h bg-cover bg-center 
           flex flex-col md:flex-row min-h-[35em] 
-          md:min-h-[39.75em]
-          pb-1"
+          md:min-h-[39.75em]"
         style={{ backgroundImage: `url(${heroBg})`}}
       >
         {/* Carousel Section */}
