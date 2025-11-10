@@ -50,18 +50,19 @@ const Homepage = () => {
         {/* Text Section */}
         <div className="
           flex flex-col justify-center 
-          md:mt-0 mt-2
+          md:mt-0 mt-4
           items-center w-full md:w-[57%] 
           bg-stone-900/25 h-[27vh] md:h-[50vh] 
-          md:h-auto text-center md:text-right px-4">
-          <div className="mb-1 text-yellow-200 text-2xl md:text-6xl font-light md:mb-4 tracking-wider">
-            Take your time with <span className='md:mr-10'>every bite</span>
+          md:h-auto text-center px-4 md:p-14">
+            
+          <div className="mb-1 text-yellow-200 text-2xl md:text-6xl font-light md:mb-4 tracking-wide">
+            Take your time with <span className='md:ml-60'>every bite</span>
           </div>
           <div className="mb-2 text-yellow-200 text-4xl md:text-7xl font-[1000] md:mb-4 md:tracking-[.175em] tracking-widest">
-            Feel right at HOME
+            Feel right at <span className='md:mr-60'>HOME</span>
           </div>
-          <div className="text-yellow-200 text-l md:text-l font-light tracking-widest">
-            In a world that moves too fast, the taste of home is the one thing that never changes.
+          <div className="text-yellow-200 text-xl text-center md:text-l font-light tracking-widest">
+            In a world that moves too fast, the taste of home is the one thing that never changes
           </div>
         </div>
       </div>
