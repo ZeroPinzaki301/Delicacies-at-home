@@ -234,11 +234,11 @@ const Favorites = () => {
         </div>
       </div>
 
-      <div className='md:min-h-[30em] bg-stone-950 flex flex-col md:flex-row items-center'>
+      <div className='md:min-h-[30em] bg-stone-950 flex flex-col-reverse md:flex-row items-center'>
 
         <div className='md:w-[60%] w-[90%] md:p-3 border-2'>
           <div>
-            <Carousel autoSlide={true} className="h-[18em] w-[100%] md:h-[30em] md:w-[100%]">
+            <Carousel autoSlide={true} className="h-[15em] w-[100%] md:h-[30em] md:w-[100%]">
               {slides.map((s, index) => (
                 <img
                   key={index}
@@ -262,6 +262,11 @@ const Favorites = () => {
           '>Favorite Dishes for this Week</h2>
         </div>
       </div>
+
+      <hr className='mt-3 h-1 bg-black'/>
+      <hr className='my-1 h-2 bg-black'/>
+      <hr className='mb-3 h-1 bg-black'/>
+      <hr />
 
       <div className='grid md:grid-cols-[60%_40%] bg-linear-to-r from-stone-950/75 via-amber-950/75 to-yellow-900/50 md:min-h-[70vh] border-2'>
         <div className='border-2 h-[100%] bg-cover bg-center' style={{ backgroundImage: `url(${FavEndBg})` }}>
