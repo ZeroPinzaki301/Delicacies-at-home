@@ -42,9 +42,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav1})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Ginataang Alimango</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Ginataang Alimango</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Ginataang alimango is a Filipino crab dish simmered in coconut milk with garlic, ginger, and chili. Its creamy, savory sauce enhances the natural sweetness of the crab, making it a comforting and flavorful meal often enjoyed with rice.</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Ginataang alimango is a Filipino crab dish simmered in coconut milk with garlic, ginger, and chili. Its creamy, savory sauce enhances the natural sweetness of the crab, making it a comforting and flavorful meal often enjoyed with rice.</p>
                       </div>
                     </motion.div>
                   )}
@@ -63,9 +63,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav2})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Lechon Kawali</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Lechon Kawali</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Lechon kawali is crispy deep-fried pork belly, boiled first then fried to golden perfection. It's crunchy on the outside, tender inside, and often served with a tangy liver sauce.</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Lechon kawali is crispy deep-fried pork belly, boiled first then fried to golden perfection. It's crunchy on the outside, tender inside, and often served with a tangy liver sauce.</p>
                       </div>
                     </motion.div>
                   )}
@@ -83,9 +83,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav3})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Nilagang Baka</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Nilagang Baka</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Nilagang baka is a comforting beef soup simmered with potatoes, corn, cabbage, and peppercorns. Its clear broth is mild and savory, perfect for rainy days or simple meals.</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Nilagang baka is a comforting beef soup simmered with potatoes, corn, cabbage, and peppercorns. Its clear broth is mild and savory, perfect for rainy days or simple meals.</p>
                       </div>
                     </motion.div>
                   )}
@@ -103,9 +103,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav4})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Pancit Palabok</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Pancit Palabok</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Pancit palabok features rice noodles topped with a rich orange sauce made from shrimp and annatto. Garnished with boiled eggs, chicharrón, and green onions, it's festive and flavorful</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Pancit palabok features rice noodles topped with a rich orange sauce made from shrimp and annatto. Garnished with boiled eggs, chicharrón, and green onions, it's festive and flavorful</p>
                       </div>
                     </motion.div>
                   )}
@@ -123,9 +123,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav5})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Halo Halo</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Halo Halo</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Halo-halo is a colorful Filipino dessert of crushed ice, sweet beans, fruits, jellies, and leche flan. Mixed together with milk, it’s a refreshing treat for hot days</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Halo-halo is a colorful Filipino dessert of crushed ice, sweet beans, fruits, jellies, and leche flan. Mixed together with milk, it’s a refreshing treat for hot days</p>
                       </div>
                     </motion.div>
                   )}
@@ -143,9 +143,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav6})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Sinigang na Bangus</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Sinigang na Bangus</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Sinigang na bangus is milkfish simmered in a sour tamarind broth with vegetables like kangkong and radish. Its tangy flavor is balanced by the soft, delicate fish</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Sinigang na bangus is milkfish simmered in a sour tamarind broth with vegetables like kangkong and radish. Its tangy flavor is balanced by the soft, delicate fish</p>
                       </div>
                     </motion.div>
                   )}
@@ -163,9 +163,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav7})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Pinakbet</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Pinakbet</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Pinakbet is a vegetable stew made with squash, eggplant, bitter melon, and okra, flavored with bagoong. It’s earthy, salty, and deeply rooted in Ilocano cooking.</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Pinakbet is a vegetable stew made with squash, eggplant, bitter melon, and okra, flavored with bagoong. It’s earthy, salty, and deeply rooted in Ilocano cooking.</p>
                       </div>
                     </motion.div>
                   )}
@@ -183,9 +183,9 @@ const Favorites = () => {
                       style={{ backgroundImage: `url(${WeekFav8})` }}
                     >
                       <div className='bg-linear-to-t from-stone-950 via-stone-700/70 to=stone-600/50 h-[100%] w-[100%] flex flex-col justify-end p-7'>
-                        <h2 className='text-yellow-300 text-4xl mb-2 tracking-[.2em]'>Adobong Manok</h2>
+                        <h2 className='text-yellow-300 text-xl md:text-4xl mb-2 tracking-[.2em]'>Adobong Manok</h2>
                         <hr className='h-[.2em] text-yellow-200 bg-yellow-200'/>
-                        <p className='text-yellow-200 tracking-widest text-justify'>Adobong manok is chicken braised in soy sauce, vinegar, garlic, and bay leaves. Its savory, slightly tangy flavor makes it one of the Philippines’ most iconic dishes.</p>
+                        <p className='text-yellow-200 tracking-widest text-sm text-justify'>Adobong manok is chicken braised in soy sauce, vinegar, garlic, and bay leaves. Its savory, slightly tangy flavor makes it one of the Philippines’ most iconic dishes.</p>
                       </div>
                     </motion.div>
                   )}
@@ -268,13 +268,13 @@ const Favorites = () => {
       <hr className='mb-3 h-1 bg-black'/>
       <hr />
 
-      <div className='grid md:grid-cols-[60%_40%] bg-linear-to-r from-stone-950/75 via-amber-950/75 to-yellow-900/50 md:min-h-[70vh] border-2'>
-        <div className='border-2 h-[100%] bg-cover bg-center' style={{ backgroundImage: `url(${FavEndBg})` }}>
+      <div className='grid grid-rows-2 md:grid-rows-1 md:grid-cols-[60%_40%] bg-linear-to-r from-stone-950/75 via-amber-950/75 to-yellow-900/50 md:min-h-[70vh] border-2'>
+        <div className='row-start-2 md:row-start-1 border-2 h-[100%] bg-cover bg-center' style={{ backgroundImage: `url(${FavEndBg})` }}>
           {renderContent()}
         </div>
-        <div className='py-10'>
+        <div className='row-start-1 py-10'>
           <h2 className='text-center md:text-4xl mb-5'>All time favorites</h2>
-          <div className='text-center flex flex-col gap-3 text-2xl '>
+          <div className='grid grid-cols-2 md:grid-cols-1 text-center flex flex-col gap-3 textmd md:text-2xl'>
             <p className='cursor-pointer hover:underline underline-offset-1 hover:text-shadow-md text-shadow-yellow-100/75 duration-500 ease-in-out' onMouseOver={() => hoverFavorite("fav1")} onMouseOut={() => hoverFavorite(null)}>Ginataang Alimango</p>
             <p className='cursor-pointer hover:underline underline-offset-1 hover:text-shadow-md text-shadow-yellow-100/75 duration-500 ease-in-out' onMouseOver={() => hoverFavorite("fav2")} onMouseOut={() => hoverFavorite(null)}>Lechon Kawali</p>
             <p className='cursor-pointer hover:underline underline-offset-1 hover:text-shadow-md text-shadow-yellow-100/75 duration-500 ease-in-out' onMouseOver={() => hoverFavorite("fav3")} onMouseOut={() => hoverFavorite(null)}>Nilagang Baka</p>
