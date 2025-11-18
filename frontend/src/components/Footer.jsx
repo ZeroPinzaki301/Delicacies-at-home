@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import HoDelLogo from '../assets/img/HoDelLogo.png';
-import HoDelTitle from '../assets/img/HoDelTitle.png';
+const HoDelLogo = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443494/HoDelLogo_pcn1ni.png';
+const HoDelTitle = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443494/HoDelTitle_j8x981.png';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
