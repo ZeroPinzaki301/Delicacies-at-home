@@ -202,22 +202,22 @@ const Favorites = () => {
         style={{ backgroundImage: `url(${FavHeroBg})`}}
       >
         <div className='grid grid-cols-[70%_30%] flex items-center h-[100%] md:min-h-[90vh] bg-linear-to-r from-stone-950/75 via-amber-950/75 to-yellow-900/50'>
-          <div className='flex flex-col justify-center md:h-[40vh] gap-5 md:mx-35 md:border-x-7 md:border-yellow-400 p-10'>
+          <div className='flex flex-col justify-center md:h-[40vh] gap-5 md:mx-35 md:border-x-7 md:border-yellow-400 md:p-10'>
             <div className='
               md:text-6xl tracking-widest 
               font-bold text-center text-yellow-300 
               text-shadow-lg text-shadow-yellow-100/20
-              border-t-5 md:border-r-10 border-r-5
+              md:border-r-10
               md:w-full
               text-5xl text-center w-[40vh]
             '>Home Favorites</div>
             <div className='
               md:px-15 text-2xl md:text-justify 
               tracking-wide md:leading-[1.5em] 
-              text-orange-300 md:border-l-10 border-l-5 border-b-5
+              text-orange-300 md:border-l-10
               md:p-0
               md:w-full
-              w-[30vh] p-3
+              w-[40vh] p-3 text-center
             '>Explore the meals that gather people around the table—and turn everyday moments into lasting memories.</div>
           </div>
           <div className='md:h-[80vh]'></div>
