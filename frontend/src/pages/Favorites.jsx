@@ -5,19 +5,19 @@ import Carousel from '../components/Carousel';
 const Favorites = () => {
   const [hovered, setHovered] = useState(null);
 
-  // Cloudinary image URLs with version numbers - you'll need to get the actual version numbers
-  // Format: https://res.cloudinary.com/cloudName/image/upload/vVersionNumber/folder/imageName
-  const WeekFav1 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443535/1stDishImg_nnddos.png';
-  const WeekFav2 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443542/2ndDishImg_vmk4bc.png';
-  const WeekFav3 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443512/3rdDishImg_lugyg1.png';
-  const WeekFav4 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443541/4thDishImg_fluehj.png';
-  const WeekFav5 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443518/5thDishImg_l18zg6.png';
-  const WeekFav6 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443541/6thDishImg_mt8ncl.png';
-  const WeekFav7 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443523/7thDishImg_lnhckt.png';
-  const WeekFav8 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443518/8thDishImg_wnnfm2.png';
+  const cloudinaryLink = 'https://res.cloudinary.com/dqs9oiho2/image/upload/';
 
-  const FavHeroBg = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443552/favorites-hero-bg_m96hzd.png';
-  const FavEndBg = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443490/fav-bg-end_dz5m1l.jpg';
+  const WeekFav1 = `${cloudinaryLink}v1763443535/1stDishImg_nnddos.png`;
+  const WeekFav2 = `${cloudinaryLink}v1763443542/2ndDishImg_vmk4bc.png`;
+  const WeekFav3 = `${cloudinaryLink}v1763443512/3rdDishImg_lugyg1.png`;
+  const WeekFav4 = `${cloudinaryLink}v1763443541/4thDishImg_fluehj.png`;
+  const WeekFav5 = `${cloudinaryLink}v1763443518/5thDishImg_l18zg6.png`;
+  const WeekFav6 = `${cloudinaryLink}v1763443541/6thDishImg_mt8ncl.png`;
+  const WeekFav7 = `${cloudinaryLink}v1763443523/7thDishImg_lnhckt.png`;
+  const WeekFav8 = `${cloudinaryLink}v1763443518/8thDishImg_wnnfm2.png`;
+
+  const FavHeroBg = `${cloudinaryLink}v1763443552/favorites-hero-bg_m96hzd.png`;
+  const FavEndBg = `${cloudinaryLink}v1763443490/fav-bg-end_dz5m1l.jpg`;
 
   const slides = [WeekFav1, WeekFav2, WeekFav3, WeekFav4, WeekFav5, WeekFav6, WeekFav7, WeekFav8];
 
@@ -245,11 +245,11 @@ const Favorites = () => {
           </div>
         </div>
 
-        <div className='md:w-[50%] flex items-center border-r-5 border-b-4 border-yellow-200 md:mx-5 md:my-10'>
+        <div className='md:w-[50%] flex items-center md:border-r-5 md:border-b-4 md:border-yellow-200 md:mx-5 md:my-10'>
           <h2 className='
             md:my-7 md:mx-7 text-yellow-100 text-left p-7 
             md:leading-tight md:text-7xl tracking-[.30em] 
-            font-thin border-l-7 border-t-5 border-yellow-200
+            font-thin md:border-l-7 md:border-t-5 md:border-yellow-200
             text-5xl
           '>Favorite Dishes for this Week</h2>
         </div>

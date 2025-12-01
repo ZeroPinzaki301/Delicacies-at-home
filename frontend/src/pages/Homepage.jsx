@@ -1,18 +1,20 @@
 import Carousel from '../components/Carousel';
 
-// Image imports top
-const slidish1 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443509/slidish-1_xouzeu.jpg';
-const slidish2 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443507/slidish-2_plj7xd.jpg';
-const slidish3 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443510/slidish-3_krhoao.jpg';
-const slidish4 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443513/slidish-4_yvmjr2.jpg';
-const slidish5 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443514/slidish-5_ggn1ip.jpg';
-const slidish6 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443526/slidish-6_k3xtgx.jpg';
-const slidish7 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443508/slidish-7_uz48yx.jpg';
-const slidish8 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443509/slidish-8_bhcgty.jpg';
+const cloudinaryLink = 'https://res.cloudinary.com/dqs9oiho2/image/upload/';
 
-const heroBg = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443497/hero-bg_ipjby9.png';
-const homeImg1 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443524/home-img-1_ccmofi.png';
-const homeImg2 = 'https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443521/home-img-2_rkkund.png';
+// Image imports top
+const slidish1 = `${cloudinaryLink}v1763443509/slidish-1_xouzeu.jpg`;
+const slidish2 = `${cloudinaryLink}v1763443507/slidish-2_plj7xd.jpg`;
+const slidish3 = `${cloudinaryLink}v1763443510/slidish-3_krhoao.jpg`;
+const slidish4 = `${cloudinaryLink}v1763443513/slidish-4_yvmjr2.jpg`;
+const slidish5 = `${cloudinaryLink}v1763443514/slidish-5_ggn1ip.jpg`;
+const slidish6 = `${cloudinaryLink}v1763443526/slidish-6_k3xtgx.jpg`;
+const slidish7 = `${cloudinaryLink}v1763443508/slidish-7_uz48yx.jpg`;
+const slidish8 = `${cloudinaryLink}v1763443509/slidish-8_bhcgty.jpg`;
+
+const heroBg = `${cloudinaryLink}v1763443497/hero-bg_ipjby9.png`;
+const homeImg1 = `${cloudinaryLink}v1763443524/home-img-1_ccmofi.png`;
+const homeImg2 = `${cloudinaryLink}v1763443521/home-img-2_rkkund.png`;
 // Image imports bottom
 
 const Homepage = () => {
