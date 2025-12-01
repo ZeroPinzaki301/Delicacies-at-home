@@ -201,7 +201,7 @@ const Favorites = () => {
         className='md:mt-7 bg-cover bg-center mt-7 md:min-h-[90vh]'
         style={{ backgroundImage: `url(${FavHeroBg})`}}
       >
-        <div className='grid md:grid-cols-[60%_40%] flex items-center h-[100%] md:min-h-[90vh] bg-linear-to-r from-stone-950/75 via-amber-950/75 to-yellow-900/50'>
+        <div className='grid grid-cols-[70%_30%] flex items-center h-[100%] md:min-h-[90vh] bg-linear-to-r from-stone-950/75 via-amber-950/75 to-yellow-900/50'>
           <div className='flex flex-col justify-center md:h-[40vh] gap-5 md:mx-35 md:border-x-7 md:border-yellow-400 md:p-10'>
             <div className='
               md:text-6xl tracking-widest 
@@ -217,7 +217,7 @@ const Favorites = () => {
               text-orange-300 md:border-l-10
               md:p-0
               md:w-full
-              w-[40vh] p-3 text-center
+              w-full p-3 text-center
             '>Explore the meals that gather people around the table—and turn everyday moments into lasting memories.</div>
           </div>
           <div className='md:h-[80vh]'></div>
