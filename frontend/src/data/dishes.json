@@ -24,7 +24,7 @@
           "Lower the heat and simmer for 40-50 minutes or until the meat is tender.",
           "Season with salt and pepper to taste and serve with rice."
         ],
-        "imgPath": "assets/dish-img/pork-adobo.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443472/pork-adobo_iyfxgl.jpg"
       },
       {
         "dishId": 2,
@@ -53,7 +53,7 @@
           "Serve the sisig on a sizzling plate and top with a raw egg (optional).",
           "Serve with steamed rice."
         ],
-        "imgPath": "assets/dish-img/pork-sisig.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443476/pork-sisig_wwgynb.jpg"
       },
       {
         "dishId": 3,
@@ -85,7 +85,7 @@
           "Season with salt, pepper, and raisins.",
           "Simmer for an additional 10 minutes before serving."
         ],
-        "imgPath": "assets/dish-img/pork-menudo.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443474/pork-menudo_vlvh9m.jpg"
       },
       {
         "dishId": 4,
@@ -107,7 +107,7 @@
           "Heat oil in a deep pan and fry the pork belly until golden and crispy.",
           "Slice the pork into bite-sized pieces and serve with dipping sauce."
         ],
-        "imgPath": "assets/dish-img/lechon-kawali.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443462/lechon-kawali_v0mvxm.jpg"
       },
       {
         "dishId": 5,
@@ -131,7 +131,7 @@
           "Add the string beans and pechay. Simmer for another 5 minutes.",
           "Season with salt and pepper, and serve."
         ],
-        "imgPath": "assets/dish-img/pork-nilaga.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443475/pork-nilaga_e3hg8p.jpg"
       },
       {
         "dishId": 6,
@@ -156,7 +156,7 @@
           "Simmer for 30-40 minutes or until the pork is tender.",
           "Season with salt and pepper, and serve hot."
         ],
-        "imgPath": "assets/dish-img/pork-dinuguan.webp"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443473/pork-dinuguan_hnacyp.webp"
       },
       {
         "dishId": 7,
@@ -181,7 +181,7 @@
           "Cook for 10-15 minutes until the sauce thickens and the pork is tender.",
           "Season with salt and pepper, then serve."
         ],
-        "imgPath": "assets/dish-img/bicol-express.png"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443448/bicol-express_zfy6ye.png"
       },
       {
         "dishId": 8,
@@ -209,7 +209,7 @@
           "Toss in the green chilies and cook for another 2 minutes.",
           "Season with salt and pepper, then serve hot."
         ],
-        "imgPath": "assets/dish-img/pork-binagoongan.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443472/pork-binagoongan_rkfipx.jpg"
       },
       {
         "dishId": 9,
@@ -242,7 +242,7 @@
           "Toss in the green peas and cook for another 2 minutes.",
           "Season with salt and pepper, then serve hot."
         ],
-        "imgPath": "assets/dish-img/pork-kaldereta.jpeg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443473/pork-kaldereta_v4iale.jpg"
       },
       {
         "dishId": 10,
@@ -271,7 +271,7 @@
           "Season with salt and pepper.",
           "Serve hot with bagoong alamang on the side."
         ],
-        "imgPath": "assets/dish-img/pork-karekare.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443474/pork-karekare_yhtudn.jpg"
       }
     ],
 
@@ -300,7 +300,7 @@
           "Lower the heat and simmer for 40-50 minutes or until the chicken is tender and the sauce thickens.",
           "Season with salt and pepper, and serve with rice."
         ],
-        "imgPath": "assets/dish-img/chicken-adobo.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443451/chicken-adobo_wxeh0j.jpg"
       },
       {
         "dishId": 12,
@@ -329,7 +329,7 @@
           "Toss in the cabbage and pechay, then cook until just wilted.",
           "Season with fish sauce, salt, and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/chicken-pochero.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443453/chicken-pochero_s1m9a0.jpg"
       },
       {
         "dishId": 13,
@@ -357,7 +357,7 @@
           "Add the pechay and long green chilies, and cook for another 3-5 minutes.",
           "Season with salt and fish sauce to taste, then serve hot."
         ],
-        "imgPath": "assets/dish-img/sinampalukan.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443479/sinampalukan_op1dmd.jpg"
       },
       {
         "dishId": 14,
@@ -384,7 +384,7 @@
           "Add the spinach or malunggay leaves and cook for another 2-3 minutes.",
           "Season with fish sauce, salt, and pepper, and serve hot."
         ],
-        "imgPath": "assets/dish-img/tinola.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443482/tinola_k4kp0s.jpg"
       },
       {
         "dishId": 15,
@@ -408,7 +408,7 @@
           "Heat oil in a deep pan or fryer and fry the chicken until golden brown and cooked through (about 10-12 minutes).",
           "Drain on paper towels, serve hot."
         ],
-        "imgPath": "assets/dish-img/fried-chicken.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443455/fried-chicken_zobn2c.jpg"
       },
       {
         "dishId": 16,
@@ -436,7 +436,7 @@
           "Add the bell peppers and green peas, and cook for another 5 minutes.",
           "Season with salt and pepper, and serve with rice."
         ],
-        "imgPath": "assets/dish-img/chicken-afritada.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443451/chicken-afritada_gnk5yt.jpg"
       },
       {
         "dishId": 17,
@@ -460,7 +460,7 @@
           "Grill the chicken, basting occasionally with the marinade, until the chicken is cooked through and golden brown.",
           "Serve hot with rice and a dipping sauce (like vinegar with chili and garlic)."
         ],
-        "imgPath": "assets/dish-img/chicken-inasal.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443452/chicken-inasal_jh7kxv.jpg"
       },
       {
         "dishId": 18,
@@ -487,7 +487,7 @@
           "Season with salt and pepper to taste.",
           "Garnish with spring onions or leeks and serve hot."
         ],
-        "imgPath": "assets/dish-img/pinikpikan.webp"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443470/pinikpikan_qwsws7.webp"
       },
       {
         "dishId": 19,
@@ -517,7 +517,7 @@
           "Line a pan with banana leaves, then transfer the cooked rice into it. Flatten and cover with more banana leaves.",
           "Cook over low heat until the bottom is slightly toasted. Serve warm."
         ],
-        "imgPath": "assets/dish-img/bringhe.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443449/bringhe_pct3n2.jpg"
       },
       {
         "dishId": 20,
@@ -543,7 +543,7 @@
           "Stir in the evaporated milk and season with fish sauce, salt, and pepper.",
           "Simmer until the sauce thickens. Serve hot."
         ],
-        "imgPath": "assets/dish-img/pininyahan.avif"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443469/pininyahan_q0cigz.avif"
       }
     ],
 
@@ -569,7 +569,7 @@
           "Cover and simmer over low heat until fish is cooked and sauce is slightly reduced.",
           "Add green chilies and cook for another minute. Serve hot."
         ],
-        "imgPath": "assets/dish-img/paksiw-gg.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443466/paksiw-gg_xe2xwv.jpg"
       },
       {
         "dishId": 22,
@@ -594,7 +594,7 @@
           "Add radish, eggplant, and green chilies. Simmer until vegetables are tender.",
           "Toss in the kangkong and season with salt and fish sauce. Serve hot."
         ],
-        "imgPath": "assets/dish-img/sinigang-bangus.webp"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443479/sinigang-bangus_dxnq68.webp"
       },
       {
         "dishId": 23,
@@ -615,7 +615,7 @@
           "Wrap the fish in banana leaves or aluminum foil.",
           "Grill over charcoal until both sides are cooked and slightly charred. Serve hot."
         ],
-        "imgPath": "assets/dish-img/grilled-tilapia.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443460/grilled-tilapia_zi67tp.jpg"
       },
       {
         "dishId": 24,
@@ -639,7 +639,7 @@
           "Stuff the mixture back into the fish skin.",
           "Fry until golden brown on all sides. Serve hot."
         ],
-        "imgPath": "assets/dish-img/relyenong-bangus.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443476/relyenong-bangus_z2hmjf.jpg"
       },
       {
         "dishId": 25,
@@ -663,7 +663,7 @@
           "Pour in the coconut cream and simmer until sauce thickens.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/ginataang-tulingan.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443458/ginataang-tulingan_sehrsq.jpg"
       },
       {
         "dishId": 26,
@@ -691,7 +691,7 @@
           "Stir in cornstarch slurry to thicken the sauce.",
           "Pour the sauce over the fried fish. Serve hot."
         ],
-        "imgPath": "assets/dish-img/escabeche.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443454/escabeche_pf5jm6.jpg"
       },
       {
         "dishId": 27,
@@ -714,7 +714,7 @@
           "Stir in sugar and season with salt and pepper.",
           "Simmer until sauce is slightly reduced. Serve hot."
         ],
-        "imgPath": "assets/dish-img/tinoyoang-tilapia.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443482/tinoyoang-tilapia_z9kw6y.jpg"
       },
       {
         "dishId": 28,
@@ -737,7 +737,7 @@
           "Slowly pour beaten eggs while stirring gently.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/sarciadong-tilapia.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443478/sarciadong-tilapia_km7ul3.jpg"
       },
       {
         "dishId": 29,
@@ -759,7 +759,7 @@
           "Cover and simmer over low heat until fish is cooked.",
           "Add green chilies and cook for another minute. Serve hot."
         ],
-        "imgPath": "assets/dish-img/bisugo-pangat.PNG"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443448/bisugo-pangat_b1c0dk.png"
       },
       {
         "dishId": 30,
@@ -783,7 +783,7 @@
           "Steam for about 20-25 minutes until the fish is cooked.",
           "Garnish with spring onions and serve hot."
         ],
-        "imgPath": "assets/dish-img/steamed-pompano.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443481/steamed-pompano_eilkdi.jpg"
       },
       {
         "dishId": 31,
@@ -806,7 +806,7 @@
           "Simmer over low heat until the fish is tender and water is almost evaporated.",
           "Pour cooking oil and continue cooking until slightly toasted. Serve hot."
         ],
-        "imgPath": "assets/dish-img/sinaing-na-tulingan.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443478/sinaing-na-tulingan_zhc724.jpg"
       }
     ],
 
@@ -830,7 +830,7 @@
           "Mix in the vegetables and cook for a few minutes.",
           "Pour water, cover, and simmer until vegetables are tender. Serve hot."
         ],
-        "imgPath": "assets/dish-img/pakbet.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443465/pakbet_px1ffr.jpg"
       },
       {
         "dishId": 33,
@@ -852,7 +852,7 @@
           "Mix in sitaw and coconut cream. Cook until vegetables are done.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/ginataang-kalabasa.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443456/ginataang-kalabasa_tg10nm.jpg"
       },
       {
         "dishId": 34,
@@ -877,7 +877,7 @@
           "Add oyster sauce, soy sauce, and season with salt and pepper.",
           "Serve hot."
         ],
-        "imgPath": "assets/dish-img/chopsuey.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443453/chopsuey_reexhv.jpg"
       },
       {
         "dishId": 35,
@@ -899,7 +899,7 @@
           "Pour soy sauce, vinegar, and water. Simmer until sitaw is tender.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/adobong-sitaw.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443445/adobong-sitaw_jb34jf.jpg"
       },
       {
         "dishId": 36,
@@ -923,7 +923,7 @@
           "Mix in kangkong and cook until wilted.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/adobong-kangkong.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443445/adobong-kangkong_ergnsf.jpg"
       },
       {
         "dishId": 37,
@@ -941,7 +941,7 @@
           "Heat oil in a pan and fry the eggplants until golden brown on both sides.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/tortang-talong-fi.jpeg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443484/tortang-talong-fi_yd9whg.jpg"
       },
       {
         "dishId": 38,
@@ -963,7 +963,7 @@
           "Add water and simmer for a few minutes.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/ginisang-pechay.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443459/ginisang-pechay_looato.jpg"
       },
       {
         "dishId": 39,
@@ -985,7 +985,7 @@
           "Mix in upo and pour water. Simmer until tender.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/upo-giniling.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443484/upo-giniling_ifeucf.jpg"
       },
       {
         "dishId": 40,
@@ -1005,7 +1005,7 @@
           "Pour water and simmer until tender.",
           "Season with salt. Serve hot."
         ],
-        "imgPath": "assets/dish-img/bulanglang.avif"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443450/bulanglang_zsyauw.avif"
       },
       {
         "dishId": 41,
@@ -1025,7 +1025,7 @@
           "Drizzle vinegar and fish sauce.",
           "Season with salt and pepper. Serve cold."
         ],
-        "imgPath": "assets/dish-img/ensaladang-talbos.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443454/ensaladang-talbos_afvkla.jpg"
       },
       {
         "dishId": 42,
@@ -1048,7 +1048,7 @@
           "Mix in boiled mung beans and season with fish sauce.",
           "Simmer until well combined. Add spinach or ampalaya leaves and cook until tender. Serve hot."
         ],
-        "imgPath": "assets/dish-img/ginisang-mungo.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443458/ginisang-mungo_aphdim.jpg"
       }
     ],
 
@@ -1077,7 +1077,7 @@
           "Add sotanghon noodles, carrot, and cabbage. Simmer until noodles are tender.",
           "Season with soy sauce, fish sauce, salt, and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/sotanghon.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443480/sotanghon_hdatqf.jpg"
       },
       {
         "dishId": 44,
@@ -1106,7 +1106,7 @@
           "Pour sauce over rice noodles.",
           "Top with shrimp, chicharon, hard-boiled eggs, and spring onions. Serve hot."
         ],
-        "imgPath": "assets/dish-img/pancit-palabok.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443467/pancit-palabok_l02ey6.jpg"
       },
       {
         "dishId": 45,
@@ -1132,7 +1132,7 @@
           "Add bihon noodles, carrot, and cabbage. Simmer until noodles are tender.",
           "Season with soy sauce, oyster sauce, salt, and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/pancit-bihon.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443467/pancit-bihon_ieqkn5.jpg"
       },
       {
         "dishId": 46,
@@ -1157,7 +1157,7 @@
           "Pour evaporated milk and stir well.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/macaroni-sopas.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443463/macaroni-sopas_i1mdhg.jpg"
       },
       {
         "dishId": 47,
@@ -1186,7 +1186,7 @@
           "Thicken soup with cornstarch mixture.",
           "Season with soy sauce, salt, and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/lomi.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443462/lomi_o6sv1z.jpg"
       },
       {
         "dishId": 48,
@@ -1212,7 +1212,7 @@
           "Add pancit canton noodles, carrot, and cabbage. Simmer until noodles are tender.",
           "Season with soy sauce, oyster sauce, salt, and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/pancit-canton.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443466/pancit-canton_v7sjdi.jpg"
       },
       {
         "dishId": 49,
@@ -1239,7 +1239,7 @@
           "Season with sugar, salt, and pepper.",
           "Serve over spaghetti noodles and top with grated cheese."
         ],
-        "imgPath": "assets/dish-img/pinoy-style-spaghetti.webp"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443471/pinoy-style-spaghetti_bjvrrl.webp"
       },
       {
         "dishId": 50,
@@ -1265,7 +1265,7 @@
           "Season with salt and pepper.",
           "Serve over spaghetti noodles, top with bacon and grated cheese."
         ],
-        "imgPath": "assets/dish-img/pinoy-style-carbonara.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443470/pinoy-style-carbonara_hyt4hl.jpg"
       },
       {
         "dishId": 51,
@@ -1291,7 +1291,7 @@
           "Add miki noodles, carrot, and cabbage. Simmer until vegetables are tender.",
           "Season with soy sauce, fish sauce, salt, and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/pancit-habhab.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443467/pancit-habhab_btuwcg.jpg"
       },
       {
         "dishId": 52,
@@ -1315,7 +1315,7 @@
           "Season with salt and pepper.",
           "Serve with siomai on top."
         ],
-        "imgPath": "assets/dish-img/misua-siomai.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443463/misua-siomai_aftxrj.jpg"
       }
     ],
 
@@ -1340,7 +1340,7 @@
           "Add marinade and simmer until beef is tender.",
           "Top with onion rings and cook until softened. Serve hot."
         ],
-        "imgPath": "assets/dish-img/bistek.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443449/bistek_ef7rvg.jpg"
       },
       {
         "dishId": 54,
@@ -1360,7 +1360,7 @@
           "Fry marinated beef until browned.",
           "Serve hot with rice and fried egg."
         ],
-        "imgPath": "assets/dish-img/beef-tapa.png"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443450/beef-tapa_gixdru.png"
       },
       {
         "dishId": 55,
@@ -1382,7 +1382,7 @@
           "Mix in cabbage and cook until tender.",
           "Season with salt. Serve hot."
         ],
-        "imgPath": "assets/dish-img/nilagang-baka.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443464/nilagang-baka_e10lrw.jpg"
       },
       {
         "dishId": 56,
@@ -1408,7 +1408,7 @@
           "Add vegetables and cook until tender.",
           "Season with salt and pepper. Serve hot with bagoong."
         ],
-        "imgPath": "assets/dish-img/beef-kare-kare.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443446/beef-kare-kare_gmlb8z.jpg"
       },
       {
         "dishId": 57,
@@ -1431,7 +1431,7 @@
           "Mix in kangkong leaves and cook until wilted.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/sinigang-na-baka.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443479/sinigang-na-baka_z5zuaj.jpg"
       },
       {
         "dishId": 58,
@@ -1455,7 +1455,7 @@
           "Mix in bile and simmer briefly.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/papaitan.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443468/papaitan_pdijbm.jpg"
       },
       {
         "dishId": 59,
@@ -1477,7 +1477,7 @@
           "Mix in soy sauce and Worcestershire sauce. Simmer until thickened.",
           "Serve hot with a fried egg on top."
         ],
-        "imgPath": "assets/dish-img/beef-sizzling.png"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443545/beef-sizzling_a8yxcf.png"
       },
       {
         "dishId": 60,
@@ -1501,7 +1501,7 @@
           "Pour oyster sauce, soy sauce, and cornstarch mixture. Simmer until sauce thickens.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/beef-broccoli.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443446/beef-broccoli_olvhv8.jpg"
       },
       {
         "dishId": 61,
@@ -1526,7 +1526,7 @@
           "Mix in potato and carrot. Cook until vegetables are tender.",
           "Season with salt and pepper. Serve hot."
         ],
-        "imgPath": "assets/dish-img/beef-mechado.png"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443446/beef-mechado_eai4ah.png"
       },  
       {
         "dishId": 62,
@@ -1549,7 +1549,7 @@
           "Pour soy sauce, sugar, and beef broth. Add star anise. Simmer until beef is tender.",
           "Season with salt and pepper. Serve hot with rice and beef soup on the side."
         ],
-        "imgPath": "assets/dish-img/beef-pares.png"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443447/beef-pares_hx9ke3.png"
       }            
     ],
 
@@ -1577,7 +1577,7 @@
           "Add the eggplant, okra, and radishes, cooking until tender.",
           "Season with salt or fish sauce. Add kangkong just before serving and cook briefly."
         ],
-        "imgPath": "assets/dish-img/sinigang-na-hipon.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443480/sinigang-na-hipon_hne9px.jpg"
       },
       {
         "dishId": 64,
@@ -1602,7 +1602,7 @@
           "Simmer for 5 minutes, then season with salt and pepper to taste.",
           "Serve hot."
         ],
-        "imgPath": "assets/dish-img/squid-adobo.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443482/squid-adobo_seag9l.jpg"
       },
       {
         "dishId": 65,
@@ -1627,7 +1627,7 @@
           "Add green peppers and simmer for 10-15 minutes until the crabs are cooked and the sauce thickens.",
           "Serve with steamed rice."
         ],
-        "imgPath": "assets/dish-img/ginataang-alimango.webp"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443456/ginataang-alimango_gxlruw.webp"
       },
       {
         "dishId": 66,
@@ -1650,7 +1650,7 @@
           "Add coconut milk, banana blossom, and fish sauce. Simmer until the squid is tender and the sauce thickens.",
           "Season with salt and pepper, then serve hot."
         ],
-        "imgPath": "assets/dish-img/ginataang-pusit.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443457/ginataang-pusit_sgnc3j.jpg"
       },
       {
         "dishId": 67,
@@ -1673,7 +1673,7 @@
           "Add fish sauce, salt, and pepper, then cook until the mussels open up.",
           "Serve hot."
         ],
-        "imgPath": "assets/dish-img/ginisang-tahong.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443460/ginisang-tahong_oitwyv.jpg"
       },
       {
         "dishId": 68,
@@ -1693,7 +1693,7 @@
           "Add shrimp and cook for 3-5 minutes until pink.",
           "Season with salt and pepper, then sprinkle with parsley before serving."
         ],
-        "imgPath": "assets/dish-img/garlic-butter-shrimp.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443456/garlic-butter-shrimp_zpftt0.jpg"
       },
       {
         "dishId": 69,
@@ -1716,7 +1716,7 @@
           "Heat oil in a pan and drop spoonfuls of the mixture into the hot oil. Fry until golden and crispy.",
           "Drain on paper towels and serve with vinegar dipping sauce."
         ],
-        "imgPath": "assets/dish-img/okoy-alamang.png"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443465/okoy-alamang_hdmxfc.png"
       },
       {
         "dishId": 70,
@@ -1738,7 +1738,7 @@
           "Bake for 10-12 minutes, or until the scallops are cooked through and the topping is golden brown.",
           "Serve with lemon wedges."
         ],
-        "imgPath": "assets/dish-img/baked-scallops.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443445/baked-scallops_dfhdbm.jpg"
       },
       {
         "dishId": 71,
@@ -1760,7 +1760,7 @@
           "Dip shrimp into the batter and fry in hot oil until golden and crispy.",
           "Drain on paper towels and serve with a dipping sauce (mayonnaise or sweet chili sauce)."
         ],
-        "imgPath": "assets/dish-img/camaron-rebosado.webp"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443450/camaron-rebosado_opnqbn.webp"
       },
       {
         "dishId": 72,
@@ -1777,7 +1777,7 @@
           "Add salt and a little water, then cover to steam for 5 minutes.",
           "Serve hot with dipping sauce (soy sauce with calamansi or vinegar)."
         ],
-        "imgPath": "assets/dish-img/halabos-na-hipon.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443460/halabos-na-hipon_pydusw.jpg"
       }
     ],
 
@@ -1799,7 +1799,7 @@
           "Strain the mixture and pour it into the molds over the caramelized sugar.",
           "Steam for 30-40 minutes or until set. Cool and refrigerate before serving."
         ],
-        "imgPath": "assets/dish-img/leche-flan.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443461/leche-flan_w6sjeq.jpg"
       },
       {
         "dishId": 74,
@@ -1822,7 +1822,7 @@
           "Top with ube halaya, leche flan, and ice cream.",
           "Serve immediately and enjoy!"
         ],
-        "imgPath": "assets/dish-img/halo-halo.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443462/halo-halo_rlf9q7.jpg"
       },
       {
         "dishId": 75,
@@ -1840,7 +1840,7 @@
           "Fry until golden brown and crispy.",
           "Serve hot."
         ],
-        "imgPath": "assets/dish-img/turon.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443483/turon_dqaiha.jpg"
       },
       {
         "dishId": 76,
@@ -1857,7 +1857,7 @@
           "Add pinipig and cook until soft.",
           "Mix in vanilla extract. Serve warm."
         ],
-        "imgPath": "assets/dish-img/ginataang-pinipig.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443457/ginataang-pinipig_brh90a.jpg"
       },
       {
         "dishId": 77,
@@ -1875,7 +1875,7 @@
           "Add condensed milk, evaporated milk, and vanilla extract.",
           "Stir continuously until thick. Serve chilled."
         ],
-        "imgPath": "assets/dish-img/ube-halaya.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443484/ube-halaya_rktnya.jpg"
       },
       {
         "dishId": 78,
@@ -1896,7 +1896,7 @@
           "Steam each layer one at a time until set.",
           "Cool and slice. Serve the colorful dessert and enjoy!"
         ],
-        "imgPath": "assets/dish-img/sapin-sapin.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443477/sapin-sapin_ofcahd.jpg"
       },
       {
         "dishId": 79,
@@ -1915,7 +1915,7 @@
           "Pour into molds and cool until set.",
           "Serve chilled."
         ],
-        "imgPath": "assets/dish-img/maja-blanca.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443464/maja-blanca_m4zeif.jpg"
       },
       {
         "dishId": 80,
@@ -1931,7 +1931,7 @@
           "Mix shredded coconut, cubed pandan gelatin, condensed milk, and all-purpose cream in a bowl.",
           "Chill in the refrigerator before serving."
         ],
-        "imgPath": "assets/dish-img/buko-pandan.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443449/buko-pandan_vtcap9.jpg"
       },
       {
         "dishId": 81,
@@ -1947,7 +1947,7 @@
           "Caramelize bananas with brown sugar until soft.",
           "Serve with crushed ice and drizzle with evaporated milk."
         ],
-        "imgPath": "assets/dish-img/banana-con-yelo.png"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443446/banana-con-yelo_hm97nm.png"
       },
       {
         "dishId": 82,
@@ -1965,7 +1965,7 @@
           "Pour into molds and steam until translucent.",
           "Roll in grated coconut before serving."
         ],
-        "imgPath": "assets/dish-img/pichi-pichi.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443468/pichi-pichi_wwsvf0.jpg"
       },
       {
         "dishId": 83,
@@ -1984,7 +1984,7 @@
           "Steam the mixture on banana leaves until cooked.",
           "Serve with butter, grated coconut, and muscovado sugar."
         ],
-        "imgPath": "assets/dish-img/puto-bumbong.jpg"
+        "imgPath": "https://res.cloudinary.com/dqs9oiho2/image/upload/v1763443476/puto-bumbong_drt263.jpg"
       }      
     ]
 
