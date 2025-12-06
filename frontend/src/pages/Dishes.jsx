@@ -36,7 +36,11 @@ const Dishes = () => {
 
       {/* If no category selected → original grid */}
       {!selectedType ? (
-        <div className="mt-5 gap-1 md:gap-7 md:px-15 grid grid-cols-2 md:grid-cols-4 transition-all duration-500 ease-in-out">
+        
+        <div className="mt-7 gap-1 md:gap-7 md:px-15 grid grid-cols-2 md:grid-cols-4 transition-all duration-500 ease-in-out">
+          <h1 className="mt-1 col-span-2 mb-3 text-center text-3xl md:text-6xl tracking-widest transition-all duration-500 ease-in-out">
+            Category of Dishes
+          </h1>
           {categories.map((cat) => (
             <div
               key={cat.name}
